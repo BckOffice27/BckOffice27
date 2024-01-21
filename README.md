@@ -1,4 +1,4 @@
-### Hi there, este es un perfil de git creado para hacer pruebas y aprender 👋
+### Hi there, este es un perfil de git creado para hacer pruebas y aprender 👋🔭
 
 <!--
 **BckOffice27/BckOffice27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
