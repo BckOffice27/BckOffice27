@@ -1,6 +1,8 @@
 ### Hi there, este es un perfil de git creado para hacer pruebas y aprender 👋🔭
 
 - 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
+
 
 
 <!--
