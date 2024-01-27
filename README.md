@@ -1,7 +1,7 @@
 ### Hi there, este es un perfil de git creado para hacer pruebas y aprender 👋🔭
 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ... Git 
+- 🤔 I’m looking for help with ... git 😄 
 
 
 
@@ -18,4 +18,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+comandos usados en GIT 
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+crea llaves SSH con protocolo ed25519
+ssh-keygen -t ed25519 -C "bckofficezte@gmail.com"
+
+Prueba conexion GIT 
+ssh -T git@github.com
+
+agregamos el correo a la llave ssh y para hacer pruebas de push 
+ 
 -->
